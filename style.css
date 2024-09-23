@@ -1,0 +1,107 @@
+
+#home{
+    background-image: url("web3photo.jpg");
+}
+
+
+#logos{
+    gap: 50px;
+}
+.text{
+    bottom: 350px;
+    right: 250px;
+    font-size: 80px;
+    
+}
+.kit{
+    bottom: 450px;
+    right: 435px;
+    font-size: 20px;
+}
+
+.hope{
+    color: white;
+    transition: 1s ;
+}
+
+.hope:hover{
+    color: rgb(155, 18, 102);
+}
+
+.mini{
+    color: rgb(248, 4, 138);
+    
+}
+.run{
+    
+    color: black;
+}
+/* .party{
+    position: relative;
+     */
+
+.go{
+    
+    color:black;
+}
+
+    
+
+.run1{
+    left: 1000px;
+    bottom: 40px;
+    
+}
+.edu{
+    background-color: rgba(211, 196, 196, 0.651);
+}
+.edu1{
+    color:rgb(248, 4, 138);
+}
+.edu2{
+    
+    color: black;
+}
+.brd{
+    left: 800px;
+    bottom: 50px;
+    color: black;
+}
+.pro1{
+    color:rgb(248, 4, 138);
+}
+.pro2{
+    color: black;
+}
+.edu3{
+    bottom: 140px;
+    right: 100px;
+}
+.edu4{
+    bottom: 325px; 
+    right: 100px;
+}
+.project{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+
+.www{
+    justify-content: space-evenly;
+}
+.text-white{
+    text-decoration: none;
+}
+.bi:hover{
+    color: rgb(155, 18, 102);
+    transition: 1s;
+}
+#me{
+    border-radius: 200px;
+}
+.text-center{
+    color:  rgb(155, 18, 102);
+}

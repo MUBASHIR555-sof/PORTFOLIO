@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../3rd week"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "personal web"
+	}
+}
